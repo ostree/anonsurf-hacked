@@ -1,5 +1,5 @@
 # anonsurf-hacked
-dirty anonsurf hack to work with gentoo. why? because pentoo is the fastest distro and I am tired of playing with debian based things. with bit of eford this distro perform better than others which makes my life more flexible - it is not as good as FreeBSD but this is linux.
+dirty anonsurf hack to work with gentoo. why? because pentoo is the fastest distro and I am tired of playing with debian based things. with bit of eford this distro perform better than others which makes my life more flexible - it is not as good as FreeBSD but this is linux. end of the day if I have a problem with something I can fire up a vm and this works quicker than native installation of kali or parrot security - so I don't care.
 
 this is a code adopted (dirty) from anonsurf repo to work with gentoo. this will need 'some love' in the future.
 
