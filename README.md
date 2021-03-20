@@ -3,7 +3,11 @@ dirty anonsurf hack to work with gentoo. why? because pentoo is the fastest dist
 
 this is a code adopted (dirty) from anonsurf repo to work with gentoo. this will need 'some love' in the future.
 
-to use this hacked bit copy content to your system and start with: ``` /etc/init.d/anondaemon restart ```
+to use this hacked bit copy content to your system 
+
+*** Please disable firewall before start because this script creates own set of iptables rules ***
+
+and start with: ``` /etc/init.d/anondaemon restart ```
 
 please check firewall configuration with: ``` iptables -L ```
 the output should look like this:
